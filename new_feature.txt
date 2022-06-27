@@ -1,0 +1,2 @@
+new feature developed in a branch
+branch: features/new_feature
